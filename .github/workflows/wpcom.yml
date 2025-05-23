@@ -1,10 +1,9 @@
 name: Publish Website
 
-
 on:
   push:
     branches:
-      - main
+      - elknanylldecor.com
   workflow_dispatch:
 jobs:
   Publish-Website:
